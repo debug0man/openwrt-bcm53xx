@@ -12,4 +12,5 @@
 
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 # Add a feed source
